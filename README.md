@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/souvik goswami](https://www.linkedin.com/in/souvik-goswami2002/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik goswami" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/souvik2002](https://leetcode.com/Souvik2002/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvik2002" height="30" width="40" /></a>
-<a href="https://discord.gg/souvikgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="souvikgoswami" height="30" width="40" /></a>
-<a href="[https://instagram.com/souvik8557](https://www.instagram.com/souvik8557/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik8557" height="30" width="40" /></a>
-<a href="[https://fb.com/souvik goswami](https://www.facebook.com/souvik.goswami.54738)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvik goswami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/souvik-goswami2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik goswami" height="30" width="40" /></a>
+<a href="https://leetcode.com/Souvik2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvik2002" height="30" width="40" /></a>
+<a href="https://discord.com/channels/1130518399747899442/1130518399747899445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="souvikgoswami" height="30" width="40" /></a>
+<a href="https://www.instagram.com/souvik8557/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik8557" height="30" width="40" /></a>
+<a href="https://www.facebook.com/souvik.goswami.54738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvik goswami" height="30" width="40" /></a>
 
 
 </p>
