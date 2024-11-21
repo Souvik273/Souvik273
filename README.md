@@ -33,16 +33,16 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
        alt="express" width="40" height="40" style="filter: invert(1);" />
-</a>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik273&show_icons=true&locale=en&layout=compact" alt="souvik273" /></p>
+<p><img align="left" style="width:35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik273&show_icons=true&locale=en&layout=compact" alt="souvik273" /></p>
 
 <p>&nbsp;<img align="right" style="width:55%" src="https://github-readme-stats.vercel.app/api?username=souvik273&show_icons=true&locale=en" alt="souvik273" /></p>
 
-<p><img align="center" style="margin-top:10%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik273&" alt="souvik273" /></p>
+<p><img align="center" style="margin-top:20%; margin-left : 20%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik273&" alt="souvik273" /></p>
 
 <p align="center">
   <a href="https://github.com/Souvik273/Souvik273/blob/main/SouvikGoswami_MERN-stack.pdf">
