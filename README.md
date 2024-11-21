@@ -1,5 +1,6 @@
 ![logo](https://github.com/Souvik273/Souvik273/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Souvik Goswami</h1>
+<h3 align="center">B.Tech , Computer Science Engineer .</h3>
 <h3 align="center">A passionate Software as well as a full stack developer .</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
