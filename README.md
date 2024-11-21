@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="right" style="width:55%" src="https://github-readme-stats.vercel.app/api?username=souvik273&show_icons=true&locale=en" alt="souvik273" /></p>
 
-<p><img align="center" style="margin-top:5%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik273&" alt="souvik273" /></p>
+<p><img align="center" style="margin-top:10%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik273&" alt="souvik273" /></p>
 
 <p align="center">
   <a href="https://github.com/Souvik273/Souvik273/blob/main/SouvikGoswami_MERN-stack.pdf">
