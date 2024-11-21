@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik273&label=Profile%20views&color=0e75b6&style=flat" alt="souvik273" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 A complete **MERN stack** Developer 
 
-- 💬 Ask me about **Data Structure , JAVA , Frontend and Backend Technologies like HTML , CSS , JS , ReactJs , SQL**
+- 💬 Ask me about **Data Structure , JAVA , Frontend and Backend Technologies like HTML , CSS , JS , ReactJs , NodeJs , ExpressJs , MongoDB and SQL**
 
 - 📫 How to reach me **souvikgoswami528@yahoo.com**
 
